@@ -2,7 +2,7 @@
 
 ## Deskripsi Proyek
 
-Proyek ini mengembangkan model Machine Learning untuk deteksi dini ulkus kaki diabetes (Diabetic Foot Ulcer/DFU) menggunakan citra termogram dan data suhu telapak kaki. Model ini menggabungkan Convolutional Neural Network (CNN) untuk memproses citra termogram dan Multi-Layer Perceptron (MLP) untuk data suhu, membentuk Multi-Classifier yang efektif dalam prediksi DFU.
+Proyek ini mengembangkan model Machine Learning untuk deteksi dini ulkus kaki diabetes (Diabetic Foot Ulcer/DFU) menggunakan citra termogram dan data suhu telapak kaki. Model ini menggabungkan Convolutional Neural Network (CNN) untuk memproses citra termogram dan Multi-Layer Perceptron (MLP) untuk data suhu, membentuk Multi-Classifier yang efektif dalam prediksi DFU. Dataset merupakan data public yang di terbitkan oleh Hernandez-Contreras et al. (DOI:10.1109/ACCESS.2019.2951356)
 
 Proyek ini juga menerapkan berbagai teknik image enhancement seperti Solarize, Posterize, CLAHE, dan Gamma Adjustment untuk meningkatkan kualitas citra dan performa model. Evaluasi model dilakukan menggunakan metrik seperti akurasi, presisi, recall, F1-score, dan ROC-AUC.
 
